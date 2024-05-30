@@ -6,7 +6,7 @@ const MovieListPage = () => {
   return (
     <div>
       <h1 className="text-2xl font-bold mb-4">Movie List</h1>
-      <a href="https://stratex-frontend-assignment-beta.vercel.app/favorites" className="text-blue-500  text-[18px]">View Favorites</a>
+      <Link to="/favorites" className="text-blue-500 text-[18px]">View Favorites</Link>
       <MovieList />
     </div>
 
