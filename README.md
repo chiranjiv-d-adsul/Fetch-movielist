@@ -1,5 +1,6 @@
 # React + Vite
-
+Demo url : https://stratex-frontend-assignment-beta.vercel.app/
+I had deployed on vercel.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
